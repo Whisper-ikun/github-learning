@@ -1,5 +1,6 @@
 # github-learning
 My first GitHub learning repository
+这是 main 分支独立增加的一行内容。
 ## 学习记录
 
 这是我第一次使用 GitHub。
