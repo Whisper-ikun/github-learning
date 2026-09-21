@@ -8,3 +8,4 @@ My first GitHub learning repository
 - Repository
 - Commit
 - Push
+- Pull
