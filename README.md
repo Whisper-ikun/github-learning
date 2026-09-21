@@ -3,7 +3,7 @@ My first GitHub learning repository
 这是 main 分支独立增加的一行内容。
 ## 学习记录
 
-这是我第一次使用 GitHub，目前正在 main 分支继续学习。
+这是我第一次使用 GitHub，目前正在学习如何解决 Git 合并冲突。
 
 我正在学习：
 - Repository
